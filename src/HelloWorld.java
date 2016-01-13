@@ -4,8 +4,8 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world!");
-		System.out.println("µÚ¶þ´Î±à¼­");
-		System.out.println("µÚÈý´Î±à¼­");
+		System.out.println("ç¬¬ä¸€æ¬¡ç¼–è¾‘");
+		System.out.println("ç¬¬äºŒæ¬¡ç¼–è¾‘");
 	}
 
 }
